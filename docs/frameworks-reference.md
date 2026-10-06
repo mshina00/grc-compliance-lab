@@ -1,13 +1,13 @@
 # Standards and Frameworks Reference
 
-> Frameworks are voluntary unless a law, contract, or customer requires them. Verify current versions at the official sources.
+> See `REFERENCES.md` for official sources. Frameworks are voluntary unless a law, contract, or customer requires them. Verify current versions at the official sources.
 
 | Name | Full form | Owner | Function / purpose | Structure |
 |---|---|---|---|---|
 | **ISO/IEC 27001:2022** | Information Security Management Systems requirements | ISO / IEC | Certifiable standard for an Information Security Management System (ISMS) | Clauses 4-10 (context, leadership, planning, support, operation, performance evaluation, improvement) plus Annex A with 93 controls in four themes: Organizational (37), People (8), Physical (14), Technological (34). Requires a Statement of Applicability (SoA). |
 | **ISO/IEC 27002:2022** | Information security controls guidance | ISO / IEC | Implementation guidance for Annex A controls | Not certifiable. |
 | **ISO/IEC 27005** | Information security risk management | ISO / IEC | Guidance for risk assessment under an ISMS | Pairs with ISO 31000. |
-| **ISO/IEC 27701** | Privacy information management | ISO / IEC | Extends an ISMS to manage personal data (PIMS) | Maps to GDPR concepts. Check current edition. |
+| **ISO/IEC 27701** | Privacy information management | ISO / IEC | Extends an ISMS to manage personal data (PIMS) | The 2025 edition (published Oct 2025) is a standalone privacy management standard, no longer only an extension of ISO 27001. Maps to GDPR concepts. |
 | **ISO 22301** | Business continuity management systems | ISO | Business continuity planning and resilience | BIA, strategies, exercising. |
 | **ISO 31000** | Risk management guidelines | ISO | General enterprise risk management principles and process | Principles, framework, process. |
 | **ISO/IEC 42001** | AI management systems | ISO / IEC | Governance of AI systems | Certifiable AI management standard. |
