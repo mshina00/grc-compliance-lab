@@ -12,6 +12,7 @@ Risk assessment and scoring, risk register management, control mapping (ISO 2700
 
 ## Repository structure
 ```
+REFERENCES.md                Official sources and status checks
 docs/
   regulations-reference.md   Laws and regulations: full forms, functions, key requirements
   frameworks-reference.md    Standards and frameworks: full forms, functions
